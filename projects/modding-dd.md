@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/modding-dd.jpg
 title: Modding: Darkest Dungeon
-permalink: projects/moddingdd
+permalink: projects/modding-dd
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-08
 labels:
