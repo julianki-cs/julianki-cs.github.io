@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ahk.jpg
 title: Learning how to write AutoHotKey scripts
-permalink: projects/vacay
+permalink: projects/learning-ahk
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-02
 labels:
