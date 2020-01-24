@@ -12,7 +12,9 @@ labels:
 summary: I learned how to write and use AutoHotKey to achieve some of the main aspirations of any programmer: Convenience and laziness
 ---
 
-<img class="ui medium right floated rounded image" src="../images/ahk.jpg">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/ahk.jpg">
+</div>
 image taken from the AutoHotKey forums: https://www.autohotkey.com/boards/viewtopic.php?t=10157
 
 I use assistive technology that simulates mouse movement and left/righf clicking to operate a computer because I do not have the use of my hands. Luckily, thanks to the many Accessibility programs and features that are included in pretty much every modern operating system, like the Windows On-Screen keyboard, a mouse is all you really need to be able to do everything on a computer. This does not, however, mean that it is convenient. A lot of programs, particularly video games, have hotkeys that require things like holding down certain combination of keyboard presses. Ctrl+s is an example of one such hotkey. 
