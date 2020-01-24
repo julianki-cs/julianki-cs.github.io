@@ -2,14 +2,15 @@
 layout: project
 type: project
 image: images/ahk.jpg
-title: Learning how to write AutoHotKey scripts
+title: Learning AHK Scripts 
 permalink: projects/learningahk
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-02
+date: 2019-11-18
 labels:
-  - AutoHotKey
+  - AHK
   - Scripts
-summary: I learned how to write and use AutoHotKey to achieve some of the main aspirations of any programmer: Convenience and laziness
+  - Learning
+summary: I taught myself AHK to write scripts
 ---
 
 <div class="ui small rounded images">
