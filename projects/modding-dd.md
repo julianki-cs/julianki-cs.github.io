@@ -2,16 +2,17 @@
 layout: project
 type: project
 image: images/modding-dd.jpg
-title: Modding: Darkest Dungeon
+title: Modding Darkest Dungeon
 permalink: projects/modding-dd
 # All dates must be YYYY-MM-DD format!
-date: 2018-06-08
+date: 2018-06-07
 labels:
   - Modding
   - Video Games
   - Darkest Dungeon
 summary: I heavily modded the video Game Darkest Dungeon as a fun side-project
 ---
+
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/modding-dd.jpg">
