@@ -1,25 +1,20 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/ahk.jpg
+title: Learning how to write AutoHotKey scripts
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-11-02
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - AutoHotKey
+  - Scripts
+summary: I learned how to write and use AutoHotKey to achieve some of the main aspirations of any programmer: Convenience and laziness
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/ahk.jpg">
+image taken from the AutoHotKey forums: https://www.autohotkey.com/boards/viewtopic.php?t=10157
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I use assistive technology that simulates mouse movement and left/righf clicking to operate a computer because I do not have the use of my hands. Luckily, thanks to the many Accessibility programs and features that are included in pretty much every modern operating system, like the Windows On-Screen keyboard, a mouse is all you really need to be able to do everything on a computer. This does not, however, mean that it is convenient. A lot of programs, particularly video games, have hotkeys that require things like holding down certain combination of keyboard presses. Ctrl+s is an example of one such hotkey. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+After being somewhat annoyed with extremely repetitive tasks that required a lot of keyboard inputs, I decided to try to learn AutoHotKey, which is a scripting language geared towards keyboard and mouse macros. Luckily, the language is pretty easy to learn and there are a ton of learning resources for it available online. I learned quite a bit from the experience. It taught me how to be resourceful when being faced with a problem, and to take advantage of software in order to make things convenient, which is something I think programmers always strive to do. It also taught me the usefulness, and dangers, of scripts in general. Scripts can be a very powerful tool, but one has to always be careful when it comes to manipulating files or input/output, as a careless script can cause serious damage to a system. After some close calls and scary moments, I try to be as diligent as I can now before running a script.
