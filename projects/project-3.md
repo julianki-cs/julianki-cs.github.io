@@ -17,6 +17,8 @@ I tried writing a simple procedurally generated rpg game in Java after a year in
 
 Here is a little snipbit of the console log:
 
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/randomdung-log.jpg">
+</div>
 
 While the game was not very good, it was a great learning experience. It forced me to consider various things like character stats, some way to implement a random damage calculator that scaled depending on things like levels and items, and some system to procedurally generate enemies based on the player character.
