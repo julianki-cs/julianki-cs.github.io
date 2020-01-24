@@ -21,7 +21,7 @@ Here is a little snipbit of the console log:
 [Slime][HP: 5]
 - Fight(f) Run(r) Item(i) Shop(p) Status(s)
 f
-> You hit slime for 2 [HP: 3]
+\> You hit slime for 2 [HP: 3]
 > Slime hit you for 1 [HP: 19]
 > You hit slime for 2 [HP: 1]
 > Slime hit you for 1 [HP: 18]
