@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/modding-dd.jpg
 title: Modding: Darkest Dungeon
 permalink: projects/moddingdd
 # All dates must be YYYY-MM-DD format!
