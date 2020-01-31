@@ -14,7 +14,7 @@ summary: I heavily modded the video Game Darkest Dungeon as a fun side-project
 ---
 
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/modding-dd.jpg">
 </div>
 image modified from the Steam page: https://store.steampowered.com/app/262060/Darkest_Dungeon/
