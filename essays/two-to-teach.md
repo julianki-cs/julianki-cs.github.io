@@ -19,6 +19,6 @@ labels:
 ## My Thoughts
   Overall, the guidelines on how to ask “smart questions” seem to make a lot of sense. It essentially boils down to being concise, courteous descriptive, and willing to learn. The less work that one makes the reader must do in parsing and understanding the question, the more likely one will receive a timely and helpful responsive. People are more than willing to teach if they know that the other person is eager and willing to learn. On a somewhat related note, reading Eric Raymond’s essay and looking through various questions reminded me of Murphy’s law, which states that the best way to get the right answer on the internet is not to post a question, but to post the wrong answer. I wonder how it compares to Raymond’s guidelines. 
 
-link to smart question: https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array?rq=1
+link to smart question: [https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array?rq=1](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array?rq=1)
 
-link to not-so-smart question: https://stackoverflow.com/questions/59997503/ditching-server-side-languages-and-going-for-javascript-for-both-client-and-serv
+link to not-so-smart question: [https://stackoverflow.com/questions/59997503/ditching-server-side-languages-and-going-for-javascript-for-both-client-and-serv](https://stackoverflow.com/questions/59997503/ditching-server-side-languages-and-going-for-javascript-for-both-client-and-serv)
