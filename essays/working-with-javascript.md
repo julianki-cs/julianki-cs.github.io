@@ -10,6 +10,10 @@ labels:
   - JavaScript
 ---
 
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/brain.jpg">
+</div>
+
 ## JavaScript: First Impressions
 So far, JavaScript seems to be a fine language. I think that it is a little too early for me to say for sure whether or not I like the language, but it does have some nice aspects to it. The most significant aspect of JavaScript that struck me as interesting was how variables do not really have a type, and you are free to pretty much assign whatever you want to things. In particular, the fact that you can return anything and that you do not have to declare types of parameters for functions seemed strange coming from a Java/C background. I can see the appeal of this characteristic, however, as it makes it a lot easier to conceptualize and write programs in a way that seems logical to humans. The programmer does not have to really know or care about types of data and can ignore all of the specifics of declaring certain variable types and converting from ints to strings and whatnot. This also makes JavaScript code seem a lot more readable at a glance, which in turn makes it much easier to read other people’s code, find out what it does, and collaborate. 
 
