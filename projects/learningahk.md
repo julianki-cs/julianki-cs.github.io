@@ -13,7 +13,7 @@ labels:
 summary: I taught myself AHK to write scripts
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/ahk.jpg">
 </div>
 image taken from the AutoHotKey forums: https://www.autohotkey.com/boards/viewtopic.php?t=10157
