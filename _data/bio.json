@@ -78,6 +78,35 @@
       ]
     }
   ],
+  "work": [
+    {
+      "company": "Hire Abilities, Center on Disability Studies",
+      "position": "Intern",
+      "website": "http://www.hireabilitieshawaii.org/",
+      "startDate": "June 2018",
+      "endDate": "August 2018",
+      "summary": "Summer Internship",
+      "highlights": [
+        "Researched various project management software for use in the office",
+        "Edited and organized Webinar videos used in trainings",
+        "Worked with staff and created newsletter templates for an ongoing program",
+        "Helped to maintain the website and post updates"
+      ]
+    },
+    {
+      "company": "Department of Labor and Industrial Relations",
+      "position": "Intern",
+      "website": "https://labor.hawaii.gov/",
+      "startDate": "June 2016",
+      "endDate": "August 2016",
+      "summary": "Summer Internship",
+      "highlights": [
+        "Worked with federal staff to create brochures for the Summer Youth Internship program.",
+        "Used Microsoft Excel to organize and interpret data and budget information",
+        "Interviewed Summer Youth Internship participants and wrote excerpts about their experiences"
+      ]
+    }
+  ],
 
   "awards": [
     {
