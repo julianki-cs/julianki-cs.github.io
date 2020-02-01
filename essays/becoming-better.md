@@ -9,6 +9,11 @@ labels:
   - Aspirations
   - Learning
 ---
+
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/software-eng.png">
+</div>
+
 ## Gaining Real Experience
 I am eager to expand my knowledge regarding software development. So far, most of my classes and experience with programming has been in theory and in very basic concepts. I have not really experienced what it is like to be working on software of a much larger scale, similar to what it is like for those actually working for software companies. I would like to gain some hands-on experience in working on large projects either on my own or with a team of people in a professional environment. Doing so will provide me with knowledge and skills that would greatly benefit me when I graduate and begin a career in the field.
 ## Programming for the masses
