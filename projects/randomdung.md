@@ -17,7 +17,7 @@ I tried writing a simple procedurally generated rpg game in Java after a year in
 
 Here is a little snipbit of the console log:
 
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/randomdung-log.jpg">
 </div>
 
