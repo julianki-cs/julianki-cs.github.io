@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/code.jpg">
+  <img class="ui image" src="../images/blocks.jpg">
 </div>
 
 ## Standing on the shoulders of giants
