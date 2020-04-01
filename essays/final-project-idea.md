@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "Final Project Idea: Theater Thoughts"
 date: 2020-03-31
 labels:
   - Software Engineering
