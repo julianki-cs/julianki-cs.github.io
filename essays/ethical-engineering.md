@@ -9,13 +9,11 @@ labels:
   - Reflection
 ---
 
-test
-
 <div class="ui medium images">
   <img class="ui image" src="../images/death-of-socrates.jpg">
 </div>
 
-## The meaning of life
+## The Meaning of Life?
 What does it mean to be ethical? That is a question that I hope that everyone has considered at some point in their lives. I feel that the study of ethics is somewhat underrepresented in education. I personally did not really know anything about it until I was an adult and took several classes on the subject during my university career. Now that I think about it, maybe this is for the better. Imagine trying to teach high schoolers that their actions have consequences. I myself do not think that I would have had enough life experience as an adolescent to fully comprehend and internalize some concepts and would have likely found the subject boring, but I digress. Ethics is an interesting and vitally important topic, because it broadly tackles the age-old question of the "meaning of life." When specifically applied to professions, ethics are like a signpost, pointing out the "right" direction to go with our actions. I like to think of it broadly as asking myself "how can I make the lives of as many people as I can better?" or conversely, "how can I not ruin the lives of as many people as possible?" Very difficult, nay impossible questions to answer, but that does not mean that we should not try.
 
 <div class="ui medium images">
