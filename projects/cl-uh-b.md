@@ -17,7 +17,7 @@ summary: I created a web applications that listed all the clubs at UH with a tea
   <img class="ui image" src="../images/black-cl-uh-b.png">
 </div>
 
-For a final project in a software engineering course, three of my peers and I were assigned to create a web applications that listed all of the clubs at UH. The website makes use of Meteor for client and server code, and React and Semantic UI for user interface. The website lists all of the clubs at UH and allows users to filter by interest. Club managers are able to edit clubs and submit new ones. More information can be found here: [https://cl-uh-b.github.io/]
+For a final project in a software engineering course, three of my peers and I were assigned to create a web applications that listed all of the clubs at UH. The website makes use of Meteor for client and server code, and React and Semantic UI for user interface. The website lists all of the clubs at UH and allows users to filter by interest. Club managers are able to edit clubs and submit new ones. More information can be found here: <https://cl-uh-b.github.io/>
 
 <div class="ui large rounded images">
   <img class="ui image" src="../images/browse.png">
