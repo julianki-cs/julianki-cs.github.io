@@ -13,7 +13,7 @@ labels:
 summary: I created a web applications that listed all the clubs at UH with a team for a final project
 ---
 
-<div class="ui large rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/black-cl-uh-b.png">
 </div>
 
